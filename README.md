@@ -1,5 +1,5 @@
 # DeepLearningResources
-[REF](https://www.zhihu.com/question/31785984/answer/321717510)</br>
+[REF Zhihu.com](https://www.zhihu.com/question/31785984/answer/321717510)</br>
 ## Books
 ### 1. [Deep Learning, Ian Goodfellow，Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)</br>
 ## Papers
