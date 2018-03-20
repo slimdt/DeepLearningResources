@@ -5,6 +5,7 @@
 ## Papers
 ### 1. Review Article
 [Deep learning, Yann LeCu, Yoshua Bengio and Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)</br>
+[Deep learning in neural networks: An overview, Jürgen Schmidhuber](http://www2.econ.iastate.edu/tesfatsi/DeepLearningInNeuralNetworksOverview.JSchmidhuber2015.pdf)</br>
 ### 2. Deep Belief Network (DBN) (milestone result prior to Deep Learning)
 [A fast learning algorithm for deep belief nets, Hinton，Geoffrey E. Hinton，Simon Osindero and Yee-Whye Teh](http://www.cs.toronto.edu/~hinton/absps/ncfast.pdf)</br>
 [Reducing the dimensionality of data with neural networks, Hinton，Geoffrey E. Hinton and Ruslan R. Salakhutdinov](http://www.cs.toronto.edu/~hinton/science.pdf)</br>
